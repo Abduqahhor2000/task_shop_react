@@ -1,0 +1,9 @@
+export const CLEAR_USER_DATA = "CLEAR_USER_DATA";
+export const ADD_USER_DATA = "ADD_USER_DATA";
+export const CLEAR_MIJOZ_DATA = "CLEAR_MIJOZ_DATA";
+export const ADD_MIJOZ_DATA = "ADD_MIJOZ_DATA";
+export const CLEAR_OMBOR_DATA = "CLEAR_OMBOR_DATA";
+export const ADD_OMBOR_DATA = "ADD_OMBOR_DATA";
+
+
+
