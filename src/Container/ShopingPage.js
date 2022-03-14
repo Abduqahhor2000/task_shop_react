@@ -12,9 +12,9 @@ const ShoppingPage = () => {
     const dispatch = useDispatch()
     const State_User = useSelector(state => state.user)
     const navigate = useNavigate()
-
+ 
     useEffect(()=>{
-        if(!State_User){
+        if(!State_User){  
             navigate("/")
         }
     }, [navigate, State_User])
